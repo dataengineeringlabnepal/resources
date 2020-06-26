@@ -5,6 +5,7 @@ This repository  consist of data engineering concept resources that are publicly
 # Distributed System
 
 Free Online Course: http://www.distributedsystemscourse.com/
+
 MIT 6.824: Distributed Systems (Spring 2020) :https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB
 
 
