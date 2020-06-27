@@ -18,3 +18,10 @@ Resource available publicly on youtube by Great Learning: https://www.youtube.co
 # Spark
 
 Resource available publicly on youtube by Great Learning: https://www.youtube.com/watch?v=zC9cnh8rJd0
+
+
+# Webinar and Talks
+
+DATAVERSITY - https://www.youtube.com/c/DataversityNetEDU/videos
+
+
