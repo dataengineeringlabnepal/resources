@@ -1,0 +1,12 @@
+version: '3'
+services: 
+    wordpress:
+        image: wordpress
+        links: 
+            - db
+        ports: 
+            - "8085:80"
+    db:
+        image: postgres
+        environment:
+            - POSTGRES_PASSWORD=mysecretpassword
